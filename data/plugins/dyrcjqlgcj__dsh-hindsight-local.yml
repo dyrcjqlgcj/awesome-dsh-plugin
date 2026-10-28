@@ -1,0 +1,6 @@
+url: https://github.com/dyrcjqlgcj/dsh-hindsight-local
+name: dyrcjqlgcj/dsh-hindsight-local
+category: memory
+description:
+  en: Runs Hindsight long-term memory on your own machine — the plugin manages the local memory server itself (health probe, start, stop, logs), registers ten hindsight_local_* tools for status, page search, page read, recall, remember and reflect, injects a knowledge-page index at the start of each turn and writes the finished turn back into the bank, and extracts facts with your own LLM key.
+  zh: 把 Hindsight 长期记忆放到自己的机器上跑：插件自己管理本地记忆服务（探活、启动、停止、看日志），注册 10 个 hindsight_local_* 工具（状态、页面检索、读页、召回、写入、反思），每轮开始时注入知识页索引、轮次结束把对话片段写回记忆库，抽取用你自己的 LLM key。
